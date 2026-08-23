@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Giovanni De La Cruz 👋
 
-<!--
-**22giovannif-alt/22giovannif-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web Jr. en formación.
 
-Here are some ideas to get you started:
+Apasionado por el desarrollo backend, la arquitectura web y la gestión de bases de datos. En búsqueda de oportunidades laborales como Programador Junior mientras continúo preparándome académicamente de forma remota.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** PHP, JavaScript, SQL, HTML5, CSS3
+- **Backend & BD:** CodeIgniter, MySQL
+- **Herramientas & Entorno:** Git, GitHub, XAMPP, phpMyAdmin
+
+---
+
+### 📂 Proyectos Destacados
+- 📌 **Próximamente:** *Sistemas web, APIs y proyectos backend.*
+
+---
+
+### 📬 Contacto
+- **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/TU_PERFIL_DE_LINKEDIN)
+- **Correo:** 22giovannif@gmail.com
